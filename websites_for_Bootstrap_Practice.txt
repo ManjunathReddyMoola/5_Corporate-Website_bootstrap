@@ -1,6 +1,6 @@
 Boostrap Practice
 ------------------
-1) Class room websites and free code camp website
+1) free code camp website
 2) https://getbootstrap.com/docs/4.3/examples/
 3) https://mdbootstrap.com/education/
 4) https://startbootstrap.com/themes/
